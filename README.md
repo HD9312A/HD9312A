@@ -26,4 +26,3 @@
 ![React](https://img.shields.io/badge/React-282C34?logo=react)
 ![SASS](https://img.shields.io/badge/SASS-282C34?logo=sass)
 
-
