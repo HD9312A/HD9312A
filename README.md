@@ -18,6 +18,7 @@
 ![Javascript](https://img.shields.io/badge/Javascript-282C34?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML-282C34?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6)
+![PYTHON](https://img.shields.io/badge/PYTHON-282C34?logo=python)
 
 
 ### Bibliotecas e afins
