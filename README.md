@@ -4,8 +4,8 @@
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=HD9312A&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/HD9312A?label=Follow&style=social)
 
 - :computer: Desenvolvedora 
-- :open_book: Estudante Back-End na Cubos Academy
-- :video_game: Jogo Fortnite e Dead By Daylight | Adoro jogos de terror |
+- :open_book: Estudante de Ciência da Computação
+- :video_game: Adoro jogos de terror 
 - 🎬 Filmes de Terror, Drama e Suspense 🖤
 
 ### Redes Sociais
